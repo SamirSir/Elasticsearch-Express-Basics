@@ -1,0 +1,25 @@
+{
+  "name": "elasticsearch-express-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamirSir/Elasticsearch-Express-Basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamirSir/Elasticsearch-Express-Basics/issues"
+  },
+  "homepage": "https://github.com/SamirSir/Elasticsearch-Express-Basics#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
